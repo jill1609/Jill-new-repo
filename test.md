@@ -12,7 +12,8 @@ Content for header 2
 [cnn link](https://www.cnn.com/)
 
 
-![image](files://C:/Users/DELL/Desktop/test/fintech.jpg)
+![image](fintech.jpg)
+
 
 
 
